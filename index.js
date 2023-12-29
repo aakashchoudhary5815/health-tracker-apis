@@ -8,7 +8,7 @@ const bcrypt = require("bcrypt");
 const axios = require("axios");
 const url =
   "mongodb+srv://sidsatsonak47:sidsatsonak47@cluster0.auffoxi.mongodb.net/";
-const port = 3001;
+const port = 8080;
 
 app.use(bodyParser.json());
 
